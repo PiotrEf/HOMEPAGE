@@ -9,3 +9,21 @@ h2 {
 section {
 	background: rgb(166, 205, 175);
 }
+.czerwony {
+	color: red 
+}
+#psy {
+	background: yellow
+}
+
+a {
+	color:green
+}
+
+section a {
+	color:blueviolet
+}
+
+.article a {
+	color:white
+}
